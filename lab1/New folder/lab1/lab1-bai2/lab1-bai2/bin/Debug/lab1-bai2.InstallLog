@@ -1,0 +1,22 @@
+﻿Installing assembly 'D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.InstallLog
+   assemblypath = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe
+Installing service _lab1-bai2...
+Service _lab1-bai2 has been successfully installed.
+Creating EventLog source _lab1-bai2 in log Application...
+Committing assembly 'D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.InstallLog
+   assemblypath = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe
+Uninstalling assembly 'D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.InstallLog
+   assemblypath = D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe
+Removing EventLog source _lab1-bai2.
+Service _lab1-bai2 is being removed from the system...
+Service _lab1-bai2 was successfully removed from the system.
+Attempt to stop service _lab1-bai2.

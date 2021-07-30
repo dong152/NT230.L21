@@ -1,0 +1,9 @@
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe.config
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.exe
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\bin\Debug\lab1-bai2.pdb
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1-bai2.csprojAssemblyReference.cache
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1_bai2.ProjectInstaller.resources
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1-bai2.csproj.GenerateResource.cache
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1-bai2.csproj.CoreCompileInputs.cache
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1-bai2.exe
+D:\TaiLieuHocTap\KH2_2021\CƠ CHẾ HD MÃ ĐỘC\lab1\lab1\lab1-bai2\lab1-bai2\obj\Debug\lab1-bai2.pdb
